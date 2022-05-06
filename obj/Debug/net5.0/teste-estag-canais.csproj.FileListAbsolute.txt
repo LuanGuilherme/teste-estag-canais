@@ -1,0 +1,16 @@
+/home/mintuser/workspace/teste-estag-canais/obj/Debug/net5.0/teste-estag-canais.csproj.AssemblyReference.cache
+/home/mintuser/workspace/teste-estag-canais/obj/Debug/net5.0/teste-estag-canais.GeneratedMSBuildEditorConfig.editorconfig
+/home/mintuser/workspace/teste-estag-canais/obj/Debug/net5.0/teste-estag-canais.AssemblyInfoInputs.cache
+/home/mintuser/workspace/teste-estag-canais/obj/Debug/net5.0/teste-estag-canais.AssemblyInfo.cs
+/home/mintuser/workspace/teste-estag-canais/obj/Debug/net5.0/teste-estag-canais.csproj.CoreCompileInputs.cache
+/home/mintuser/workspace/teste-estag-canais/bin/Debug/net5.0/teste-estag-canais
+/home/mintuser/workspace/teste-estag-canais/bin/Debug/net5.0/teste-estag-canais.deps.json
+/home/mintuser/workspace/teste-estag-canais/bin/Debug/net5.0/teste-estag-canais.runtimeconfig.json
+/home/mintuser/workspace/teste-estag-canais/bin/Debug/net5.0/teste-estag-canais.runtimeconfig.dev.json
+/home/mintuser/workspace/teste-estag-canais/bin/Debug/net5.0/teste-estag-canais.dll
+/home/mintuser/workspace/teste-estag-canais/bin/Debug/net5.0/ref/teste-estag-canais.dll
+/home/mintuser/workspace/teste-estag-canais/bin/Debug/net5.0/teste-estag-canais.pdb
+/home/mintuser/workspace/teste-estag-canais/obj/Debug/net5.0/teste-estag-canais.dll
+/home/mintuser/workspace/teste-estag-canais/obj/Debug/net5.0/ref/teste-estag-canais.dll
+/home/mintuser/workspace/teste-estag-canais/obj/Debug/net5.0/teste-estag-canais.pdb
+/home/mintuser/workspace/teste-estag-canais/obj/Debug/net5.0/teste-estag-canais.genruntimeconfig.cache
