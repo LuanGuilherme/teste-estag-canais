@@ -10,7 +10,7 @@ namespace teste_estag_canais {
 
         static void Main(string[] args){
 
-            IEnumerable<string> linhas = File.ReadLines(@"./my_program/entrada.txt").Skip(2).Take(7);
+            IEnumerable<string> linhas = File.ReadLines(@"./my_program/entrada.txt").Skip(2);
 
             foreach (string linha in linhas) {
 
@@ -22,7 +22,7 @@ namespace teste_estag_canais {
                     entradas[2]
                     );
 
-                Conta Emissor = new Conta(entradas[3], entradas[4], entradas[5], entradas[6], 500);
+                Conta Emissor = new Conta(entradas[3], entradas[4], entradas[5], entradas[6], 11000);
 
                 Conta Receptor = new Conta(entradas[7], entradas[8], entradas[9], entradas[10], 0);
 

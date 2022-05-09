@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = teste_estag_canais
-build_property.ProjectDir = /home/mintuser/workspace/teste-estag-canais/
+build_property.ProjectDir = /home/mint20/workspace/teste-estag-canais/

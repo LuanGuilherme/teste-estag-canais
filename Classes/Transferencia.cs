@@ -29,6 +29,11 @@ namespace teste_estag_canais.Classes {
 				return;
 			}
 
+			if (Emissor.NumeroConta == Receptor.NumeroConta) {
+				Console.WriteLine("Sua transferência não foi completada pois não é possível fazer transferências para uma mesma conta.");
+				return;
+			}
+
 			switch (this.TipoTransferencia) {
 
 				case "PIX":
@@ -53,19 +58,11 @@ namespace teste_estag_canais.Classes {
 					else break;
 			}
 
-			if (Emissor.NumeroConta != Receptor.NumeroConta) {
-
-				Emissor.Saldo -= this.ValorTransferencia;
-				Receptor.Saldo += this.ValorTransferencia;
-				Console.WriteLine("Sua transferência foi realizada com sucesso!");
-				Console.WriteLine("Saldo do emissor: " + string.Format(CultureInfo.GetCultureInfo("pt-BR"), "{0:C}", Emissor.Saldo));
-				Console.WriteLine("Saldo do receptor: " + string.Format(CultureInfo.GetCultureInfo("pt-BR"), "{0:C}", Receptor.Saldo));
-
-			} else {
-
-				Console.WriteLine("Sua transferência não foi completada pois não é possível fazer transferências para uma mesma conta.");
-
-			}
+			Emissor.Saldo -= this.ValorTransferencia;
+			Receptor.Saldo += this.ValorTransferencia;
+			Console.WriteLine("Sua transferência foi realizada com sucesso!");
+			Console.WriteLine("Saldo do emissor: " + string.Format(CultureInfo.GetCultureInfo("pt-BR"), "{0:C}", Emissor.Saldo));
+			Console.WriteLine("Saldo do receptor: " + string.Format(CultureInfo.GetCultureInfo("pt-BR"), "{0:C}", Receptor.Saldo));
 
 		}
 

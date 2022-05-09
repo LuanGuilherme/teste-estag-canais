@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/mintuser/workspace/teste-estag-canais/teste-estag-canais.csproj": {}
+    "/home/mint20/workspace/teste-estag-canais/teste-estag-canais.csproj": {}
   },
   "projects": {
-    "/home/mintuser/workspace/teste-estag-canais/teste-estag-canais.csproj": {
+    "/home/mint20/workspace/teste-estag-canais/teste-estag-canais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mintuser/workspace/teste-estag-canais/teste-estag-canais.csproj",
+        "projectUniqueName": "/home/mint20/workspace/teste-estag-canais/teste-estag-canais.csproj",
         "projectName": "teste-estag-canais",
-        "projectPath": "/home/mintuser/workspace/teste-estag-canais/teste-estag-canais.csproj",
-        "packagesPath": "/home/mintuser/.nuget/packages/",
-        "outputPath": "/home/mintuser/workspace/teste-estag-canais/obj/",
+        "projectPath": "/home/mint20/workspace/teste-estag-canais/teste-estag-canais.csproj",
+        "packagesPath": "/home/mint20/.nuget/packages/",
+        "outputPath": "/home/mint20/workspace/teste-estag-canais/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mintuser/.nuget/NuGet/NuGet.Config"
+          "/home/mint20/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
