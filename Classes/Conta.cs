@@ -4,7 +4,7 @@ namespace teste_estag_canais.Classes {
 
 		private string Nome { get; set; }
 
-		private string Agencia { get; set; }
+		public string Agencia { get; set; }
 
 		public string NumeroConta { get; set; }
 
